@@ -1,4 +1,4 @@
-### Hey! 👋 I'm Topan,
+## Hey! 👋 I'm Topan,
 ___
 
 📚 Software Engineering student at the University of Calgary<br><br>
